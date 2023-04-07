@@ -1,0 +1,14 @@
+*.js
+!jest.config.js
+*.d.ts
+node_modules
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+profiles.yaml
+_archive
+.pytest_cache
+__pycache__
+.venv
